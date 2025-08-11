@@ -1,2 +1,2 @@
-# Internship-Project
-ZolonTech Model Prediction Project
+# Regression-Project
+Regression Project
